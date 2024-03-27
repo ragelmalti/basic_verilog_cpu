@@ -1,0 +1,1 @@
+iverilog test_bench.v cpu.v control_circuit.v sixteen_bit_register.v tri_buf.v ALU.v one_hot.v interpret_instruction.v three_bit_2to1muxV2.v next_state.v four_bit_register.v ROM_p1.v ROM_p2.v ROM_p3.v
